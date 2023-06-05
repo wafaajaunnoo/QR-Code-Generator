@@ -12,7 +12,8 @@ To use the QR Code Generator, follow these steps:
 4. Click the "Generate" button to generate the corresponding QR code.
 5. The generated QR code will be displayed on the screen.
 
-You can also live-code it on [my CodePen ]([url](https://codepen.io/wafaaajaunnoo/pen/dyQbRqW))
+You can also live-code it on [my CodePen](https://codepen.io/wafaaajaunnoo/pen/dyQbRqW)
+
 Feel free to customize the design and functionality of the QR Code Generator to suit your needs. You can modify the CSS styles in the `styles.css` file and extend the JavaScript functionality in the `script.js` file.
 
 ## Contributing
